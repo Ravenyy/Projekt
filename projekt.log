@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.19)  22 JAN 2018 19:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.19)  22 JAN 2018 20:03
 entering extended mode
 **./projekt.tex
 (projekt.tex
@@ -477,8 +477,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
 \c@mv@varbold=\count99
-
-No file projekt.aux.
+ (projekt.aux)
 \openout1 = `projekt.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -495,6 +494,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
+
 (C:\Users\PC\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count100
@@ -592,11 +592,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 15.
  (D:\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-No file projekt.toc.
+(projekt.toc)
 \tf@toc=\write3
 \openout3 = `projekt.toc'.
 
-[1
+ [1
 
 {C:/Users/PC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 22--35
@@ -625,10 +625,6 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <7> on input line 76.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <5> on input line 76.
-
-
-LaTeX Warning: Reference `dziedzina' on page 4 undefined on input line 76.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
@@ -675,36 +671,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--108
  []
 
 
-LaTeX Warning: Reference `dziedzina' on page 5 undefined on input line 113.
-
-
-LaTeX Warning: Reference `aspoz1' on page 5 undefined on input line 115.
-
-
-LaTeX Warning: Reference `aspoz2' on page 5 undefined on input line 115.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 [5]
-
-LaTeX Warning: Citation `wzorki' on page 6 undefined on input line 137.
-
-
-LaTeX Warning: Reference `pochodna' on page 6 undefined on input line 147.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 147--151
 
  []
 
 [6]
-
-LaTeX Warning: Citation `wzorki' on page 7 undefined on input line 164.
-
-
 Overfull \hbox (3.18637pt too wide) in paragraph at lines 163--167
 \OT4/cmr/m/n/12 Funkcja f(x) jest \OT4/cmr/bx/n/12 wy-pu-kªa \OT4/cmr/m/n/12 ki
 e-dy $\OML/plm/m/it/12 f[]\OT4/cmr/m/n/12 (\OML/plm/m/it/12 x\OT4/cmr/m/n/12 ) 
@@ -713,41 +689,21 @@ e-dy $\OML/plm/m/it/12 f[]\OT4/cmr/m/n/12 (\OML/plm/m/it/12 x\OT4/cmr/m/n/12 )
 /12 ) \OML/plm/m/it/12 <
  []
 
-
-LaTeX Warning: Reference `fig:Wykres' on page 7 undefined on input line 176.
-
-
-! LaTeX Error: File `przyklad1a' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.178 \includegraphics[width=6cm]{przyklad1a}
-                                             
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<przyklad1a.png, id=35, 213.79875pt x 166.6225pt>
+File: przyklad1a.png Graphic file (type png)
+<use przyklad1a.png>
+Package pdftex.def Info: przyklad1a.png  used on input line 178. on input line 
+178.
+Package pdftex.def Info: Requested size: 170.71652pt x 133.04646pt on input lin
+e 178.
 [7]
-
-! LaTeX Error: File `przyklad1b' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.195 \includegraphics[width=9cm]{przyklad1b}
-                                             
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:Funkcja' on page 8 undefined on input line 200.
-
+<przyklad1b.png, id=40, 371.3875pt x 366.36874pt>
+File: przyklad1b.png Graphic file (type png)
+<use przyklad1b.png>
+Package pdftex.def Info: przyklad1b.png  used on input line 195. on input line 
+195.
+Package pdftex.def Info: Requested size: 256.0748pt x 252.6214pt on input line 
+195.
 
 Overfull \hbox (1.59018pt too wide) in paragraph at lines 190--201
 \OT4/cmr/m/n/12 dzie-dzi-ny - na po-cz¡t-ku wy-li-czy-li-±my, »e dzie-dzi-na to
@@ -760,14 +716,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--201
 
  []
 
-
-LaTeX Warning: Citation `matematyka' on page 8 undefined on input line 205.
-
-No file projekt.bbl.
-[8] (projekt.aux)
-
-LaTeX Warning: There were undefined references.
-
+(projekt.bbl [8 <./przyklad1a.png>] [9 <./przyklad1b.png>]) [10] (projekt.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
@@ -779,34 +728,35 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 ### simple group (level 1) entered at line 124 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2895 strings out of 493312
- 34927 string characters out of 3146712
- 97872 words of memory out of 3000000
- 6361 multiletter control sequences out of 15000+200000
- 15763 words of font info for 50 fonts, out of 3000000 for 9000
+ 2899 strings out of 493312
+ 35205 string characters out of 3146712
+ 97929 words of memory out of 3000000
+ 6370 multiletter control sequences out of 15000+200000
+ 16301 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,9n,26p,356b,353s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm
-.enc}{C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plms.enc}{C:/Us
-ers/PC/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plmi.enc}{C:/Users/PC/AppD
-ata/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plme.enc}<D:/MiKTeX/fonts/type1/publi
-c/amsfonts/symbols/msbm10.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/typ
-e1/public/pl/plbx10.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/pub
-lic/pl/plbx12.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl
-/plex10.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plmi1
-0.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plmi12.pfb>
-<C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plmi8.pfb><C:/Use
-rs/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/PC/A
-ppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/PC/AppData/
-Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr17.pfb><C:/Users/PC/AppData/Roaming
-/MiKTeX/2.9/fonts/type1/public/pl/plr6.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/
-2.9/fonts/type1/public/pl/plr8.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/font
-s/type1/public/pl/plsy10.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type
-1/public/pl/plsy6.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
-c/pl/plsy8.pfb>
-Output written on projekt.pdf (8 pages, 111318 bytes).
+ 41i,9n,26p,356b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plit
+.enc}{C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plrm.enc}{C:/Us
+ers/PC/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plms.enc}{C:/Users/PC/AppD
+ata/Roaming/MiKTeX/2.9/fonts/enc/dvips/pl/plmi.enc}{C:/Users/PC/AppData/Roaming
+/MiKTeX/2.9/fonts/enc/dvips/pl/plme.enc}<D:/MiKTeX/fonts/type1/public/amsfonts/
+symbols/msbm10.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/p
+l/plbx10.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plbx
+12.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plex10.pfb
+><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plmi10.pfb><C:/U
+sers/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plmi12.pfb><C:/Users/P
+C/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plmi8.pfb><C:/Users/PC/AppDa
+ta/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plr10.pfb><C:/Users/PC/AppData/Roam
+ing/MiKTeX/2.9/fonts/type1/public/pl/plr12.pfb><C:/Users/PC/AppData/Roaming/MiK
+TeX/2.9/fonts/type1/public/pl/plr17.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9
+/fonts/type1/public/pl/plr6.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/t
+ype1/public/pl/plr8.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/pub
+lic/pl/plsy10.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl
+/plsy6.pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plsy8.
+pfb><C:/Users/PC/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/pl/plti12.pfb>
+Output written on projekt.pdf (10 pages, 145241 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 106 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
